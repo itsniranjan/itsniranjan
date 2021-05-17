@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ![Flutter][2.1] ![Django][2.2] 
 - 👐 Experience in ![HTML][4.1]  ![CSS][4.2]  ![JS][4.3]  ![React JS][2.3]  
 -
-- 📫 How to reach me:  You can find me on ![Twitter][1.1][1] or on ![LinkedIn][1.2][2] or on ![Instagram][1.3][3]
+- 📫 How to reach me:  ![Twitter][1.1][1]  ![LinkedIn][1.2][2]  ![Instagram][1.3][3]
 - 🖥️ My Code Buddy ![Visual Studio Code][3.1]
 
 
