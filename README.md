@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 
 - 👐 Experience in ![ML][2.0] ![Flutter][2.1]  ![Firebase][2.4],  ![HTML][4.1]  ![CSS][4.2]  ![React JS][2.3]  ![Django][2.2] 
 
-[<img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width="50" height="50">](https://twitter.com/NiranjanNeelak1)
+[<img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width="50" height="30">](https://twitter.com/NiranjanNeelak1)
+[<img src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent.png" width="50" height="30">](https://www.instagram.com/niranjan_neelakantan/)
+[<img src="https://www.pikpng.com/pngl/b/57-572097_linkedin-transparent-icon-linked-in-logo-with-white.png" width="50" height="30">](https://www.linkedin.com/in/niranjan-neelakantan)
+
 - 📫 How to reach me:  ![Twitter][1.1]  ![LinkedIn][1.2][2]  ![Instagram][1.3][3]
 - 🖥️ My Code Buddy   ![Colab][3.1], ![Jupyter][3.2], ![Visual Studio Code][3.3], 
 
