@@ -27,20 +27,13 @@ Here are some ideas to get you started:
 
 - 👐 Experience in ![ML][2.0] ![Flutter][2.1]  ![Firebase][2.4],  ![HTML][4.1]  ![CSS][4.2]  ![React JS][2.3]  ![Django][2.2] 
 
-[<img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width="50" height="30">](https://twitter.com/NiranjanNeelak1)
-[<img src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent.png" width="30" height="30">](https://www.instagram.com/niranjan_neelakantan/)
-[<img src="https://www.pikpng.com/pngl/b/57-572097_linkedin-transparent-icon-linked-in-logo-with-white.png" width="30" height="30">](https://www.linkedin.com/in/niranjan-neelakantan)
 
-- 📫 How to reach me:  ![Twitter][1.1]  ![LinkedIn][1.2][2]  ![Instagram][1.3][3]
+
+- 📫 How to reach me:  [<img src="https://www.pikpng.com/pngl/b/57-572097_linkedin-transparent-icon-linked-in-logo-with-white.png" width="30" height="30">](https://www.linkedin.com/in/niranjan-neelakantan) [<img src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent.png" width="30" height="30">](https://www.instagram.com/niranjan_neelakantan/) [<img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width="50" height="30">](https://twitter.com/NiranjanNeelak1)
+
+
 - 🖥️ My Code Buddy   ![Colab][3.1], ![Jupyter][3.2], ![Visual Studio Code][3.3], 
 
-
-[1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-[1]: https://twitter.com/NiranjanNeelak1
-[1.2]: 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[2]:https://www.linkedin.com/in/niranjan-neelakantan
-[1.3]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[3]:https://www.instagram.com/niranjan_neelakantan/
 
 [1.9]: https://img.shields.io/badge/Data_Science-02569A?style=for-the-badge&logoColor=red
 [2.0]: https://img.shields.io/badge/Machine_Learning-02569B?style=for-the-badge&logoColor=white
