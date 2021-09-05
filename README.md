@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning Data Science and exploring more projects 
+- 🌱 I’m currently learning ![ML][2.0] ![Data Science][1.9] and exploring more projects 
+
 - 👐 Experience in ![ML][2.0] ![Flutter][2.1]  ![Firebase][2.4],  ![HTML][4.1]  ![CSS][4.2]  ![React JS][2.3]  ![Django][2.2] 
 - 
-- 📫 How to reach me:  ![Twitter][1.1][1]  ![LinkedIn][1.2][2]  ![Instagram][1.3][3]
+- 📫 How to reach me:  ![Twitter][1.1](https://twitter.com/NiranjanNeelak1)  ![LinkedIn][1.2][2]  ![Instagram][1.3][3]
 - 🖥️ My Code Buddy   ![Colab][3.1], ![Jupyter][3.2], ![Visual Studio Code][3.3], 
 
 
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 [1.3]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [3]:https://www.instagram.com/niranjan_neelakantan/
 
+[1.9]: https://img.shields.io/badge/Data_Science-02569A?style=for-the-badge&logoColor=red
 [2.0]: https://img.shields.io/badge/Machine_Learning-02569B?style=for-the-badge&logoColor=white
 [2.1]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 [2.2]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
