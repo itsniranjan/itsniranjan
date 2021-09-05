@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ![ML][2.0] ![Data Science][1.9] and exploring more projects 
 
 - 👐 Experience in ![ML][2.0] ![Flutter][2.1]  ![Firebase][2.4],  ![HTML][4.1]  ![CSS][4.2]  ![React JS][2.3]  ![Django][2.2] 
-- 
-- 📫 How to reach me:  ![Twitter][1.1](https://twitter.com/NiranjanNeelak1)  ![LinkedIn][1.2][2]  ![Instagram][1.3][3]
+
+[<img src="https://www.google.com/search?q=twitter+logo&sxsrf=AOaemvKIQqEljdOIvaNNRMFSReHl8zWeoA:1630877838156&tbm=isch&source=iu&ictx=1&fir=2i1kFeuCiSXdnM%252CKzq84wmS6eJ2qM%252C_&vet=1&usg=AI4_-kRvs1GgQPPPXccs-iIPwwtXgJgP9g&sa=X&ved=2ahUKEwjf99ux5ejyAhUMyDgGHSuVDOoQ9QF6BAgZEAE#imgrc=2i1kFeuCiSXdnM">](https://twitter.com/NiranjanNeelak1)
+- 📫 How to reach me:  ![Twitter][1.1]  ![LinkedIn][1.2][2]  ![Instagram][1.3][3]
 - 🖥️ My Code Buddy   ![Colab][3.1], ![Jupyter][3.2], ![Visual Studio Code][3.3], 
 
 
