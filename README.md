@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning ![ML][2.0] ![Data Science][1.9] and exploring more projects 
 
 - 👐 Experience in ![ML][2.0] ![Flutter][2.1]  ![Firebase][2.4],  ![HTML][4.1]  ![CSS][4.2]  ![React JS][2.3]  ![Django][2.2] 
 
